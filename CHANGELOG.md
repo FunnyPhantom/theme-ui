@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.3.6 2022-04-29
+
+- fixed peer dependencies of @theme-ui/match-media to be installible with npm7+
+
 ## v0.3.5 2020-12-21
 
 - Remove `.d.ts` from dist. Use `@types/theme-ui` with Theme UI 0.3.
